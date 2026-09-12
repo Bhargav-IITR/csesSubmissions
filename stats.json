@@ -1,6 +1,6 @@
 {
   "cses": {
-    "lastSynced": "2026-09-12T20:20:46.275Z",
+    "lastSynced": "2026-09-12T20:20:51.032Z",
     "shas": {
       "1097-removal-game": {
         "filename": "1097-removal-game.cpp",
@@ -38,6 +38,10 @@
         "filename": "1642-sum-of-four-values.cpp",
         "submissionId": "10271121"
       },
+      "1744-rectangle-cutting": {
+        "filename": "1744-rectangle-cutting.cpp",
+        "submissionId": "18723012"
+      },
       "1746-array-description": {
         "filename": "1746-array-description.cpp",
         "submissionId": "18682003"
@@ -50,13 +54,14 @@
         "filename": "3359-minimal-grid-path.cpp",
         "submissionId": "18724394"
       },
-      "1744-rectangle-cutting": {
-        "filename": "1744-rectangle-cutting.cpp",
-        "submissionId": "18723012"
+      "1628-meet-in-the-middle": {
+        "filename": "1628-meet-in-the-middle.cpp",
+        "submissionId": "10269357"
       }
     },
-    "solved": 13,
+    "solved": 14,
     "submissions": {
+      "10269357": "1628-meet-in-the-middle",
       "10271121": "1642-sum-of-four-values",
       "18408097": "1633-dice-combinations",
       "18408718": "1634-minimizing-coins",

@@ -1,10 +1,14 @@
 {
   "cses": {
-    "lastSynced": "2026-09-12T20:20:31.463Z",
+    "lastSynced": "2026-09-12T20:20:36.070Z",
     "shas": {
       "1097-removal-game": {
         "filename": "1097-removal-game.cpp",
         "submissionId": "18724646"
+      },
+      "1158-book-shop": {
+        "filename": "1158-book-shop.cpp",
+        "submissionId": "18468296"
       },
       "1633-dice-combinations": {
         "filename": "1633-dice-combinations.cpp",
@@ -38,12 +42,12 @@
         "filename": "3359-minimal-grid-path.cpp",
         "submissionId": "18724394"
       },
-      "1158-book-shop": {
-        "filename": "1158-book-shop.cpp",
-        "submissionId": "18468296"
+      "1746-array-description": {
+        "filename": "1746-array-description.cpp",
+        "submissionId": "18682003"
       }
     },
-    "solved": 10,
+    "solved": 11,
     "submissions": {
       "10271121": "1642-sum-of-four-values",
       "18408097": "1633-dice-combinations",
@@ -53,6 +57,7 @@
       "18468119": "1637-removing-digits",
       "18468210": "1638-grid-paths-i",
       "18468296": "1158-book-shop",
+      "18682003": "1746-array-description",
       "18724394": "3359-minimal-grid-path",
       "18724646": "1097-removal-game"
     }

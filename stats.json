@@ -1,0 +1,15 @@
+{
+  "cses": {
+    "lastSynced": "2026-09-12T19:18:53.023Z",
+    "shas": {
+      "3359-minimal-grid-path": {
+        "filename": "3359-minimal-grid-path.cpp",
+        "submissionId": "18724394"
+      }
+    },
+    "solved": 1,
+    "submissions": {
+      "18724394": "3359-minimal-grid-path"
+    }
+  }
+}

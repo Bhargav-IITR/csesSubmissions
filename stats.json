@@ -1,6 +1,6 @@
 {
   "cses": {
-    "lastSynced": "2026-09-12T20:20:41.580Z",
+    "lastSynced": "2026-09-12T20:20:46.275Z",
     "shas": {
       "1097-removal-game": {
         "filename": "1097-removal-game.cpp",
@@ -42,16 +42,20 @@
         "filename": "1746-array-description.cpp",
         "submissionId": "18682003"
       },
+      "2413-counting-towers": {
+        "filename": "2413-counting-towers.cpp",
+        "submissionId": "18694165"
+      },
       "3359-minimal-grid-path": {
         "filename": "3359-minimal-grid-path.cpp",
         "submissionId": "18724394"
       },
-      "2413-counting-towers": {
-        "filename": "2413-counting-towers.cpp",
-        "submissionId": "18694165"
+      "1744-rectangle-cutting": {
+        "filename": "1744-rectangle-cutting.cpp",
+        "submissionId": "18723012"
       }
     },
-    "solved": 12,
+    "solved": 13,
     "submissions": {
       "10271121": "1642-sum-of-four-values",
       "18408097": "1633-dice-combinations",
@@ -63,6 +67,7 @@
       "18468296": "1158-book-shop",
       "18682003": "1746-array-description",
       "18694165": "2413-counting-towers",
+      "18723012": "1744-rectangle-cutting",
       "18724394": "3359-minimal-grid-path",
       "18724646": "1097-removal-game"
     }

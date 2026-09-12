@@ -1,6 +1,6 @@
 {
   "cses": {
-    "lastSynced": "2026-09-12T20:20:22.043Z",
+    "lastSynced": "2026-09-12T20:20:26.790Z",
     "shas": {
       "1097-removal-game": {
         "filename": "1097-removal-game.cpp",
@@ -22,6 +22,10 @@
         "filename": "1636-coin-combinations-ii.cpp",
         "submissionId": "18468032"
       },
+      "1637-removing-digits": {
+        "filename": "1637-removing-digits.cpp",
+        "submissionId": "18468119"
+      },
       "1642-sum-of-four-values": {
         "filename": "1642-sum-of-four-values.cpp",
         "submissionId": "10271121"
@@ -30,12 +34,12 @@
         "filename": "3359-minimal-grid-path.cpp",
         "submissionId": "18724394"
       },
-      "1637-removing-digits": {
-        "filename": "1637-removing-digits.cpp",
-        "submissionId": "18468119"
+      "1638-grid-paths-i": {
+        "filename": "1638-grid-paths-i.cpp",
+        "submissionId": "18468210"
       }
     },
-    "solved": 8,
+    "solved": 9,
     "submissions": {
       "10271121": "1642-sum-of-four-values",
       "18408097": "1633-dice-combinations",
@@ -43,6 +47,7 @@
       "18409348": "1635-coin-combinations-i",
       "18468032": "1636-coin-combinations-ii",
       "18468119": "1637-removing-digits",
+      "18468210": "1638-grid-paths-i",
       "18724394": "3359-minimal-grid-path",
       "18724646": "1097-removal-game"
     }

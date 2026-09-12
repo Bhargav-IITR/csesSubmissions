@@ -1,18 +1,18 @@
 {
   "cses": {
-    "lastSynced": "2026-09-12T20:19:47.568Z",
+    "lastSynced": "2026-09-12T20:19:50.205Z",
     "shas": {
       "1097-removal-game": {
         "filename": "1097-removal-game.cpp",
         "submissionId": "18724646"
       },
-      "3359-minimal-grid-path": {
-        "filename": "3359-minimal-grid-path.cpp",
-        "submissionId": "18724394"
-      },
       "1642-sum-of-four-values": {
         "filename": "1642-sum-of-four-values.cpp",
         "submissionId": "10271121"
+      },
+      "3359-minimal-grid-path": {
+        "filename": "3359-minimal-grid-path.cpp",
+        "submissionId": "18724394"
       }
     },
     "solved": 3,

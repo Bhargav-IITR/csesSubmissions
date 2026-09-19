@@ -1,6 +1,6 @@
 {
   "cses": {
-    "lastSynced": "2026-09-19T12:49:13.349Z",
+    "lastSynced": "2026-09-19T19:52:34.240Z",
     "shas": {
       "1093-two-sets-ii": {
         "filename": "1093-two-sets-ii.cpp",
@@ -62,6 +62,10 @@
         "filename": "1746-array-description.cpp",
         "submissionId": "18682003"
       },
+      "2220-counting-numbers": {
+        "filename": "2220-counting-numbers.cpp",
+        "submissionId": "18793381"
+      },
       "2413-counting-towers": {
         "filename": "2413-counting-towers.cpp",
         "submissionId": "18694165"
@@ -70,12 +74,12 @@
         "filename": "3359-minimal-grid-path.cpp",
         "submissionId": "18724394"
       },
-      "2220-counting-numbers": {
-        "filename": "2220-counting-numbers.cpp",
-        "submissionId": "18793381"
+      "1076-sliding-window-median": {
+        "filename": "1076-sliding-window-median.cpp",
+        "submissionId": "18796827"
       }
     },
-    "solved": 18,
+    "solved": 19,
     "submissions": {
       "10269357": "1628-meet-in-the-middle",
       "10271121": "1642-sum-of-four-values",
@@ -94,7 +98,8 @@
       "18765041": "1093-two-sets-ii",
       "18765502": "1140-projects",
       "18775767": "1653-elevator-rides",
-      "18793381": "2220-counting-numbers"
+      "18793381": "2220-counting-numbers",
+      "18796827": "1076-sliding-window-median"
     }
   }
 }
